@@ -327,7 +327,8 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
                   Ideas made <i>real</i>.
                 </h1>
                 <p className="text-md lg:text-xl mb-8 text-bolt-elements-textSecondary animate-fade-in animation-delay-200">
-                  Bring your ideas to life in seconds or refine existing projects with the <i>expert guidance</i> of <b>Ideagy</b>.
+                  Bring your ideas to life in seconds or refine existing projects with the <i>expert guidance</i> of{' '}
+                  <b>Ideagy</b>.
                 </p>
               </div>
             )}

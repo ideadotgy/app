@@ -5,13 +5,8 @@ import { useSettings } from '~/lib/hooks/useSettings';
 
 export default function FeaturesTab() {
   const {
-    debug,
-    enableDebugMode,
     isLocalModel,
     enableLocalModels,
-    enableEventLogs,
-    isLatestBranch,
-    enableLatestBranch,
     promptId,
     setPromptId,
     autoSelectTemplate,
@@ -19,11 +14,6 @@ export default function FeaturesTab() {
     enableContextOptimization,
     contextOptimizationEnabled,
   } = useSettings();
-
-  const handleToggle = (enabled: boolean) => {
-    enableDebugMode(enabled);
-    enableEventLogs(enabled);
-  };
 
   return (
     <div className="p-4 bg-bolt-elements-bg-depth-2 border border-bolt-elements-borderColor rounded-lg mb-4">
