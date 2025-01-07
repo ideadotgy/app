@@ -28,7 +28,7 @@ const StarterTemplates: React.FC = () => {
       </span>
       <span className="text-sm text-gray-500">
         <a href="https://dexscreener.com/">
-          $IDEA Contract: <b>NOT LAUNCHED.</b>
+          $IDEA Contract: <b>2XKTuB8JVMfFUcV5ndY8pFiZmo15w74HJg6pGCy4pump</b>
         </a>
       </span>
       <div className="flex justify-center">
