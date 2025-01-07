@@ -18,11 +18,11 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ideadotgy/ideagy-app.git
+   git clone https://github.com/ideadotgy/app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ideagy-app
+   cd app
    ```
 3. Install dependencies:
    ```bash
