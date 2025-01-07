@@ -27,7 +27,7 @@ const StarterTemplates: React.FC = () => {
         <a href="https://x.com/ideadotgy">Connect with us on X (formerly Twitter) @ideadotgy.</a>
       </span>
       <span className="text-sm text-gray-500">
-        <a href="https://dexscreener.com/">
+        <a href="https://dexscreener.com/solana/2XKTuB8JVMfFUcV5ndY8pFiZmo15w74HJg6pGCy4pump">
           $IDEA Contract: <b>2XKTuB8JVMfFUcV5ndY8pFiZmo15w74HJg6pGCy4pump</b>
         </a>
       </span>
